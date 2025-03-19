@@ -15,7 +15,7 @@ To get started with this project, follow these steps:
     ```
 4. Start the development server:
     ```bash
-    npm run dev
+    npx next dev
     ```
 5. Open your web browser and go to `http://localhost:3000` to see the application in action.
 
